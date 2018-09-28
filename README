@@ -1,4 +1,4 @@
--The code read the file "edges" and makes a matrix CONEX, in which lines represent all the nodes i and the columns represent the nodes j which are directed connected do the the node i.
+-The code reads the file "edges" and makes a matrix CONEX, in which lines represent all the nodes i and the columns represent the nodes j which are directed connected do the the node i.
 
 Example:
 
